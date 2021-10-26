@@ -13,5 +13,5 @@ This repository contains all of the notes taken by [Elham](https://github.com/El
 
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-=======
->>>>>>> fdae7bfba236bf54db880cfe03f8d2c4dd96ec57
+
+
